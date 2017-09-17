@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Phrase Embeddin mus version",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_mus/pahseEmbedding_mus.log",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_mus/pahseEmbedding_mus_name.log"
+    }
+  ]
+}
