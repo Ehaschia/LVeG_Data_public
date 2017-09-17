@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "M&W phrase embedding",
+      "tensorShape": [
+        513,
+        22
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_m%26w/pahseEmbedding_m%26w.log",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_m%26w/pahseEmbedding_m%26w_name.log"
+    }
+  ]
+}
