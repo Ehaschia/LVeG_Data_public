@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "spherical embedding mus version",
+      "tensorShape": [
+        171,
+        22
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/spherical_171_len5_cnt12_NP_mus/pe_mus.log",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/spherical_171_len5_cnt12_NP_mus/pe_mus.log"
+    }
+  ]
+}

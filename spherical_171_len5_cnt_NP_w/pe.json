@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "spherical embedding weight version",
+      "tensorShape": [
+        171,
+        22
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/spherical_171_len5_cnt_NP_w/pe_w.log",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/spherical_171_len5_cnt_NP_w/pe_w_name.log"
+    }
+  ]
+}
