@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Phrase Embeddin 01 version",
+      "tensorShape": [
+        171,
+        22
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_01/pahseEmbedding_01.log",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/weigit_171_len5_cnt12_NP_01/pahseEmbedding_01_name.log"
+    }
+  ]
+}
