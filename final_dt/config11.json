@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "DT ep11",
+      "tensorShape": [
+        22,
+        22
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/final_dt/final_ep11.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/final_dt/label.tsv"
+    }
+  ]
+}
