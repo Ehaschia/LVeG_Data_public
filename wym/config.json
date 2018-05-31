@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        104743,
+        8
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ehaschia/LVeG_Data_public/master/wym/detail_all_v2.csv"
+    }
+  ]
+}
